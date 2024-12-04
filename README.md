@@ -1,6 +1,6 @@
 # ExamBrowserMod
 
-![Icon](./icon)
+![Icon](./icon.png)
 
 **ExamBrowserMod** adalah versi modifikasi dari ExamBrowser yang memungkinkan pengguna untuk keluar masuk aplikasi dengan mudah, serta mendukung penggunaan Floating Apps. Aplikasi ini dirancang untuk mempermudah aktivitas multitasking Anda tanpa batasan.
 
@@ -30,8 +30,3 @@ Untuk mengunduh, silakan klik bagian **Releases** di atas, lalu tekan ikon segit
 2. Unduh file APK dari bagian **Releases**.
 3. Instal aplikasi yang telah diunduh.
 4. Nikmati pengalaman multitasking yang lebih fleksibel!
-
----
-
-## 🖼️ Icon
-Pastikan file gambar bernama `icon` ada di folder yang sama dengan README.md ini untuk menampilkan logo aplikasi. 
