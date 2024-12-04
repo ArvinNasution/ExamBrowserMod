@@ -1,8 +1,37 @@
 # ExamBrowserMod
-Exambrowser Bisa Keluar Masuk Aplikasi, support Floating Apps
 
-# LinkDownloads
-Link 🔗 Download Dibawah Di bagian Realese Kalian klik aja Segitiga Kebawahnya nanti muncul
+![Icon](./icon)
 
-# Catatan
-Note : bagi yang tidak bisa terpasang coba hapus ExamBrowser yang lamanya dulu baru install yang ExamBrowserMod yang ini
+**ExamBrowserMod** adalah versi modifikasi dari ExamBrowser yang memungkinkan pengguna untuk keluar masuk aplikasi dengan mudah, serta mendukung penggunaan Floating Apps. Aplikasi ini dirancang untuk mempermudah aktivitas multitasking Anda tanpa batasan.
+
+---
+
+## 🚀 Fitur Unggulan
+- **Keluar Masuk Aplikasi**: Tidak terkunci hanya pada satu aplikasi.
+- **Support Floating Apps**: Menambahkan fleksibilitas untuk menjalankan aplikasi mengambang.
+- **Mudah Digunakan**: Tanpa konfigurasi rumit, cukup instal dan gunakan.
+
+---
+
+## 🔗 Link Download
+Untuk mengunduh, silakan klik bagian **Releases** di atas, lalu tekan ikon segitiga ke bawah untuk menampilkan semua versi yang tersedia.  
+**Pastikan untuk memilih versi terbaru!**
+
+---
+
+## ⚠️ Catatan Penting
+1. Jika aplikasi **ExamBrowserMod** tidak bisa dipasang, hapus terlebih dahulu versi lama dari **ExamBrowser**.
+2. Pastikan perangkat Anda mendukung fitur-fitur yang ditawarkan agar aplikasi berjalan lancar.
+
+---
+
+## 🛠️ Cara Install
+1. Hapus aplikasi ExamBrowser lama (jika ada).
+2. Unduh file APK dari bagian **Releases**.
+3. Instal aplikasi yang telah diunduh.
+4. Nikmati pengalaman multitasking yang lebih fleksibel!
+
+---
+
+## 🖼️ Icon
+Pastikan file gambar bernama `icon` ada di folder yang sama dengan README.md ini untuk menampilkan logo aplikasi. 
