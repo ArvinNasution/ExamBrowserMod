@@ -14,7 +14,7 @@
 ---
 
 ## 🔗 Link Download
-Untuk mengunduh, silakan klik bagian **Releases** di atas, lalu tekan ikon segitiga ke bawah untuk menampilkan semua versi yang tersedia.  
+Untuk mengunduh, silakan klik bagian **Releases** di bawah, lalu tekan ikon segitiga ke bawah untuk menampilkan semua versi yang tersedia.  
 **Pastikan untuk memilih versi terbaru!**
 
 ---
